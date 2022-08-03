@@ -1,0 +1,7 @@
+name: LogFilter
+version: '${version}'
+main: com.rokucraft.logfilter.LogFilter
+api-version: 1.16
+load: STARTUP
+authors: [ Aikovdp ]
+website: https://www.rokucraft.com

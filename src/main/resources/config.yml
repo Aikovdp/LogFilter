@@ -1,0 +1,2 @@
+# A list of regex patterns. If a log message matches any of these, it will not be logged.
+deny-patterns: []
